@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Blockchain Development, Smart Contract & Solidity Course - Powered By AI </h1>
-<strong>Học cách phát triển smart contract Solidity và nâng cấp trình độ của bạn</strong>
+<h1>Web3 Development, Smart Contract & Solidity Course </br> Powered By AI  </h1>
+<strong>Học cách phát triển Smart Contract Solidity và các ứng dụng Web3 tương thích EVM</strong>
 <p align="center">
     <br />
     <a href="https://cyfrin.io/">
@@ -10,12 +10,12 @@
         <img src=".github/images/coursebadge.png" width="242.3" alt=""/></a>
     <br />
 </p>
-Chào mừng bạn đến với repository của khoá học Blockchain Development, Smart Contract & Solidity Course. Khoá học này được phát triển bởi <a href="https://cyfrin.io/">Cyfrin</a> và <a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a>, cập nhật, sửa đổi và dịch thuật sang tiếng Việt bởi <a href="https://www.youtube.com/channel/UC0QESw8LTPb841qcABmOsvA">Terran Crypt</a>.
+Chào mừng bạn đến với repository của khoá học Web3 Development, Smart Contract & Solidity Course. Khoá học này được phát triển bởi <a href="https://cyfrin.io/">Cyfrin</a> và <a href="https://www.youtube.com/@PatrickAlphaC">Patrick Collins</a>, cập nhật, sửa đổi và dịch thuật sang tiếng Việt bởi <a href="https://www.youtube.com/channel/UC0QESw8LTPb841qcABmOsvA">Terran Crypt</a>.
 </div>
 
 # Foundry Full Course F23
 
-Trong toàn bộ khoá học này, phần lớn kiến thức là đến từ khoá học Foundry Full Course F23 của Cyfrin Updraft. Tuy nhiên sẽ có thay đổi để cập nhật kiến thức và dịch thuật, diễn đạt nội dung để phù hợp hơn với khán giả Việt Nam.
+Trong toàn bộ khoá học này, phần lớn kiến thức là đến từ khoá học Foundry Full Course F23 của Cyfrin's Updraft. Tuy nhiên sẽ có thay đổi để cập nhật kiến thức và dịch thuật, diễn đạt nội dung để phù hợp hơn với khán giả Việt Nam.
 
 ## Link gốc của khoá học
 <br/>
