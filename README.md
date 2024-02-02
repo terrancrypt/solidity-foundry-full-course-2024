@@ -68,6 +68,41 @@ Trong toàn bộ khoá học này, phần lớn kiến thức là đến từ kh
 - Phind: https://www.phind.com
 - Bard: https://bard.google.com
 
-## Nơi đặt câu hỏi
+## Nơi đặt câu hỏi (updating...)
+- Github Discussion: https://github.com/terrancrypt/web3-solidity-course-2024/discussions
 - Ethereum Stack Exchange: https://ethereum.stackexchange.com
 - Peeranha: https://peeranha.io
+
+# Phần 0: Chào mừng
+
+## Lời khuyên
+- **Follow repository này.** Tất cả những gì liên quan đến khoá học đều nằm ở repo này và nó sẽ thay đổi theo thời gian, vì vậy để giúp cho quá trình tìm hiểu kiến thức tốt nhất bạn hãy follow repo này nhé.
+- **Đặt câu hỏi.** Mình thường xuyên active trên Github nên câu hỏi của bạn đặt trong phần Discussion của Repo này mình sẽ có thể thấy và trả lời câu hỏi của bạn một cách thường xuyên nên đừng ngại đặt bất kỳ câu hỏi gì nếu cảm thấy bị vướng mắc.
+- **Tìm kiếm tài liệu.** Ngoài dịch document của Patrick trong khoá học gốc sang tiếng Việt, mình cũng cố gắng tìm rất nhiều nguồn tài liệu khác. Mục đích để có nhiều tài nguyên nhất trong quá trình học tập của bạn. Nhưng sức người có hạn nên có thể có nhiều thiếu sót để hổng kiến thức, mong bạn nếu cảm thấy chưa đủ hãy tìm thêm.
+- **Học theo nhịp độ của bạn.** Mỗi người có một tốc độ học hỏi và tìm hiểu kiến thức khác nhau. Đừng quá thúc ép bản thân, cũng đừng trì hoãn việc cần làm. Có thể bạn chỉ mất cỡ 1 tuần để hoàn thành khoá này, cũng có thể bạn sẽ mất cả tháng mới học xong và hiểu hết. Tất cả đều có quá trình của nó.
+- **Nghỉ ngơi.** Có thể bạn sẽ kiệt sức nếu ngồi quá lâu một chỗ (hoặc bị trĩ), nên hãy nhớ nhắc bản thân nghỉ ngơi mỗi khi làm việc được một lúc. Có thể bạn sẽ muốn học theo phương pháp pomodoro được chia sẻ trong [video này](https://www.youtube.com/watch?v=vm_-taF_CRw).
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Phần 1: Blockchain cơ bản
+
+## Blockchain là gì? Và để làm gì?
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+  - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+- [Bitcoin Whitepaper tiếng Việt](https://bitcoin.org/files/bitcoin-paper/bitcoin_vi.pdf)
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+  - [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)
+- [What is a Smart Contract?](https://chain.link/education/smart-contracts)
+- [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
+- [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
+- [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
+- [Terminology](https://connect.comptia.org/content/articles/blockchain-terminology)
+- [Web3](https://en.wikipedia.org/wiki/Web3)
+- [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
+
+## Tham khảo thêm
+Nếu bạn chưa hiểu lắm, có thể thao khảo thêm một số video về blockchain mà không chuyên sâu về khía cạnh kỹ thuật của nó trong các video mình tìm được dưới đây.
+- [BlockChain - Xương sống của Bitcoin là gì? Hiểu rõ trong 5 phút](https://www.youtube.com/watch?v=GkQuk3XDYf8)
+- [BLOCKCHAIN LÀ GÌ? | TheAlchemist | TIỀN TÀI](https://www.youtube.com/watch?v=6qnMpxfptNY)
+- [Blockchain ứng dụng vào giải trí như thế nào? | VTV24](https://www.youtube.com/watch?v=wZtiDavuk_A)
+- [Tiềm năng và cơ hội cho Blockchain Việt Nam | VTV24](https://www.youtube.com/watch?v=XuLDSNOH8HA)
