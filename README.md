@@ -100,9 +100,62 @@ Trong toàn bộ khoá học này, phần lớn kiến thức là đến từ kh
 - [Web3](https://en.wikipedia.org/wiki/Web3)
 - [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
-## Tham khảo thêm
 Nếu bạn chưa hiểu lắm, có thể thao khảo thêm một số video về blockchain mà không chuyên sâu về khía cạnh kỹ thuật của nó trong các video mình tìm được dưới đây.
 - [BlockChain - Xương sống của Bitcoin là gì? Hiểu rõ trong 5 phút](https://www.youtube.com/watch?v=GkQuk3XDYf8)
 - [BLOCKCHAIN LÀ GÌ? | TheAlchemist | TIỀN TÀI](https://www.youtube.com/watch?v=6qnMpxfptNY)
 - [Blockchain ứng dụng vào giải trí như thế nào? | VTV24](https://www.youtube.com/watch?v=wZtiDavuk_A)
 - [Tiềm năng và cơ hội cho Blockchain Việt Nam | VTV24](https://www.youtube.com/watch?v=XuLDSNOH8HA)
+
+## Mục đích của Smart Contract
+
+- [Understanding Decentralized Data and Computation.](https://www.youtube.com/watch?v=06hXCX_jj2E) Xem để hiểu tại sao chúng ta làm tất cả những thứ này, về blockchain, smart contract và web3.
+- [The Evolution of Smart Contracts and Cryptoeconomic Security.](https://www.youtube.com/watch?v=ufVyX7JDCgg)
+- [Smart contracts - Simply Explained.](https://www.youtube.com/watch?v=ZE2HxTmxfrI) Giải thích đơn giản về smart contract
+
+## Các lợi ích của Blockchain
+- Phi tập trung
+- Minh bạch & linh hoạt
+- Tốc độ & hiệu quả
+- Bảo mật & bất biến
+- Loại bỏ rủi ro đối tác
+- Thỏa thuận giảm thiểu sự tin cậy
+
+## Smart Contract đã làm được những gì?
+- DeFi
+- DAOs
+- NFTs
+
+## Tạo giao dịch đầu tiên
+- [Metamask Download Link](https://etherscan.io/)
+  - [Private Key & Passphrase là gì?](https://coin98.net/private-key-passphrase-la-gi)
+- [Etherscan](https://etherscan.io/)
+- [Sepolia Etherscan](https://sepolia.etherscan.io/)
+- [Sepolia Faucet](https://sepoliafaucet.com/)
+
+## Blockchain hoạt động như thế nào?
+- Hash là gì?
+- Blockchain Demo Website
+- [Into To Ethereum] (https://ethereum.org/en/developers/docs/intro-to-ethereum)
+
+## Ký giao dịch
+- Public & Private Key
+- Layer 2 & Rollup
+- Decentralized Blockchain Oracle
+
+## Gas
+- [Gas & Gas Fee](https://ethereum.org/en/developers/docs/gas)
+- Wei, Gwei & Ether
+- [Block Reward](https://www.investopedia.com/terms/b/block-reward.asp)
+- Gas nâng cao:
+  - [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
+  - Gwei, Wei & ETH
+  - [ETH Converter](https://eth-converter.com/)
+- [Chạy node](https://geth.ethereum.org/docs/getting-started)
+
+## Kiến thức nâng cao về Blockchain
+- [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
+- [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos)
+- [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow)
+- [Nakamoto Consesus](https://blockonomi.com/nakamoto-consensus/)
+
+
