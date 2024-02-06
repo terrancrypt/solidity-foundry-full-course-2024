@@ -68,7 +68,7 @@ Trong toàn bộ khoá học này, phần lớn kiến thức là đến từ kh
 - Phind: https://www.phind.com
 - Bard: https://bard.google.com
 
-## Nơi đặt câu hỏi (updating...)
+## Nơi đặt câu hỏi
 - Github Discussion: https://github.com/terrancrypt/web3-solidity-course-2024/discussions
 - Ethereum Stack Exchange: https://ethereum.stackexchange.com
 - Peeranha: https://peeranha.io
