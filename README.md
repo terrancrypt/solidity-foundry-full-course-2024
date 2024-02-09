@@ -73,7 +73,9 @@ Trong toàn bộ khoá học này, phần lớn kiến thức là đến từ kh
 - Ethereum Stack Exchange: https://ethereum.stackexchange.com
 - Peeranha: https://peeranha.io
 
-# Phần 0: Chào mừng
+# Phần 0: Giới thiệu
+
+_[⭐️ Video #0: Introduce](https://www.youtube.com/watch?v=H0b-D_I05co)_
 
 ## Lời khuyên
 - **Follow repository này.** Tất cả những gì liên quan đến khoá học đều nằm ở repo này và nó sẽ thay đổi theo thời gian, vì vậy để giúp cho quá trình tìm hiểu kiến thức tốt nhất bạn hãy follow repo này nhé.
