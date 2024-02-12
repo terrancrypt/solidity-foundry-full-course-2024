@@ -77,6 +77,12 @@ Trong toàn bộ khoá học này, phần lớn kiến thức là đến từ kh
 
 _[⭐️ Video #0: Introduce](https://www.youtube.com/watch?v=H0b-D_I05co)_
 
+## Về terrancrypt
+- Hackathon dự án mình làm: https://devfolio.co/projects/tc-protocol-e5f8
+- VBI Academy: https://vbiacademy.edu.vn/
+
+VBI có phát triển các khoá học về blockchain và web3 tại: https://www.openedu101.com/. Chuyên sâu và rộng hơn, ưu tiên bạn học khoá này trước sau đó tiếp tục tìm hiểu thêm.
+
 ## Lời khuyên
 - **Follow repository này.** Tất cả những gì liên quan đến khoá học đều nằm ở repo này và nó sẽ thay đổi theo thời gian, vì vậy để giúp cho quá trình tìm hiểu kiến thức tốt nhất bạn hãy follow repo này nhé.
 - **Đặt câu hỏi.** Mình thường xuyên active trên Github nên câu hỏi của bạn đặt trong phần Discussion của Repo này mình sẽ có thể thấy và trả lời câu hỏi của bạn một cách thường xuyên nên đừng ngại đặt bất kỳ câu hỏi gì nếu cảm thấy bị vướng mắc.
